@@ -38,7 +38,7 @@
 &kp A             &mt LEFT_CONTROL S  &kp D               &lt 2 F             &kp G                   &kp H                  &lt 1 J              &mt RIGHT_ALT K  &mt RIGHT_CONTROL L  &mt RIGHT_GUI SEMI 
 &mt LEFT_SHIFT Z  &kp X               &kp C               &kp V               &kp B                   &kp N                  &kp M                &kp COMMA        &kp DOT              &kp FSLH          
                                       &mt LEFT_ALT EQUAL  &mt LEFT_GUI MINUS  &mt LEFT_SHIFT SPACE    &mt RIGHT_SHIFT SPACE  &lt 3 RIGHT_BRACKET  &lt 4 BACKSLASH
-            >
+              >;
         };
 
         nums {
